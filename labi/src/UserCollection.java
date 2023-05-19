@@ -89,6 +89,10 @@ public class UserCollection {
         for (Organization org : organizations) {
             System.out.println(org);
         }
+        if (organizations.isEmpty()){
+            System.out.println("Коллекция пуста");
+        }
+
     }
 
     public static Vector<Organization> getOrganizations() {

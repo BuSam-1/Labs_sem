@@ -1,0 +1,20 @@
+{
+  "organizations": [
+    {
+      "id": 1,
+      "name": "asd",
+      "coordinates": {
+        "x": 23.0,
+        "y": 123.0
+      },
+      "creationDate": "Apr 24, 2023, 6:12:19 PM",
+      "annualTurnover": 0.1,
+      "employeesCount": 12,
+      "type": "COMMERCIAL",
+      "officalAddress": {
+        "street": "Chuchoqkhona",
+        "zipCode": "000-000"
+      }
+    }
+  ]
+}
